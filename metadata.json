@@ -1,0 +1,6 @@
+{
+  "name": "EDUFLIGHT 3D — Petualangan Pesawat Pembelajaran",
+  "description": "Game edukasi 3D interaktif pesawat pembelajaran untuk IFP, Chromebook, PC, dan tablet dengan navigasi gerbang jawaban 3D, audio dinamis, dan bank soal kurikulum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
